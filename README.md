@@ -3,6 +3,7 @@ Late December to Early January
 -	Familiarize with the software and MonkeyRunner and MonkeyHelper
 -	Read Reran paper to understand their approach to recording and replaying
 -	Was difficult to install and run gcc, but managed to get it done eventually.
+
 Mid-January-Mid-February
 -	Getting Reran to run properly on computer
 1.	Obtaining recordedEvents log
@@ -26,6 +27,7 @@ into 0,0,3,0,336
 -	Installed the cross-compiler onto a PC, compiled replay.c on a windows computer and then transferred the compiled file onto a Mac
 -	The cross compiler was installed from this website. Sourcery CodeBench for ARM Lite on Linux. https://sourcery.mentor.com/GNUToolchain/release2450
 -	There was an error, ./replay: not executable: magic 7F45, which meant that the compiled file using the cross compiler was not recognized by the android device
+
 Mid-February to Present
 -	Read and understood translate.java and wrote a python equivalent of the program. (able to translate recordedEvents.txt to translatedEvents.txt)
 -	Reading and Understanding replay.c to eventually write a python equivalent
